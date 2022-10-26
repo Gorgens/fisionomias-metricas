@@ -1,0 +1,1 @@
+C:\FUSION\catalog C:\DADOS\fisionomias\semidecidual1_v1.las C:\DADOS\fisionomias\semidecidual1_v1
